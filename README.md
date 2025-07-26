@@ -49,7 +49,11 @@
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="machine_learning" width="40" height="40"/>
   </a>
+  <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/N8n_logo_icon_only.svg/512px-N8n_logo_icon_only.svg.png" alt="n8n" width="40" height="40"/>
+  </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejaswini192003&show_icons=true&locale=en&layout=compact" alt="thejaswini192003" /></p>
 
