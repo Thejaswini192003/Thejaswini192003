@@ -14,12 +14,22 @@
 - 📫 How to reach me **svthejaswinivasu@gmail.com**
 
 - ⚡ Fun fact **Mission to turn messy data into meaningful insights**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thejaswinisv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejaswinisv/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thejaswinivasu5293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thejaswinivasu5293" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/thejaswinisv/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thejaswinisv/" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/thejaswinivasu5293" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thejaswinivasu5293" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@svthejaswinivasu" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="svthejaswinivasu" height="30" width="40" />
+  </a>
+  <a href="https://topmate.io/thejaswini/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topmate.svg" alt="thejaswini" height="30" width="40" />
+  </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
