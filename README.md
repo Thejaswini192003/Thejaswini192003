@@ -32,8 +32,6 @@
 </p>
 
 
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
