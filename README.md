@@ -3,18 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thejaswini192003&label=Profile%20views&color=0e75b6&style=flat" alt="thejaswini192003" /> </p>
 
-- 🌱 I’m currently learning **AI agent**
+-  I’m currently learning **AI agent** & **data engineer**
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Thejaswini](https://codebasics.io/portfolio/Thejaswini)
+-  All of my projects are available at [https://codebasics.io/portfolio/Thejaswini](https://codebasics.io/portfolio/Thejaswini)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/thejaswinisv/](https://www.linkedin.com/in/thejaswinisv/) and [https://medium.com/@svthejaswinivasu](https://medium.com/@svthejaswinivasu)
+-  I regularly write articles on [https://www.linkedin.com/in/thejaswinisv/](https://www.linkedin.com/in/thejaswinisv/) and [https://medium.com/@svthejaswinivasu](https://medium.com/@svthejaswinivasu)
 
 
-- 💬 Ask me about **Data Analyst, Data Science related**
+-  Ask me about **Data Analyst, Data Science related**, **n8n**, **Power BI**, **SQL**
+-  Want a guidance from me then lets connect[https://topmate.io/thejaswini/]
 
-- 📫 How to reach me **svthejaswinivasu@gmail.com**
+- How to reach me **svthejaswinivasu@gmail.com**
 
-- ⚡ Fun fact **Mission to turn messy data into meaningful insights**
+- Fun fact **Mission to turn messy data into meaningful insights**
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center; margin: 0; padding: 0;">
   <a href="https://linkedin.com/in/thejaswinisv/" target="_blank">
