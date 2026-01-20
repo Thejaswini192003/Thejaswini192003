@@ -11,7 +11,7 @@
 
 
 -  Ask me about **Data Analyst, Data Science related**, **n8n**, **Power BI**, **SQL**
--  Want a guidance from me then lets connect[https://topmate.io/thejaswini/]
+-  Want a guidance from me then lets connect [https://topmate.io/thejaswini/]
 
 - How to reach me **svthejaswinivasu@gmail.com**
 
